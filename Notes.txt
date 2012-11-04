@@ -1,0 +1,7 @@
+Notes
+
+IG Location details 
+latitude: 12.996841451,
+id: "617571",
+longitude: 77.597001378,
+name: "Jayamahal Palace Hotel"

@@ -6,6 +6,9 @@ class Tatwlive < Padrino::Application
 
   enable :sessions
 
+  # => Firebase 
+  # => https://github.com/oscardelben/firebase-ruby
+  Firebase.base_uri = ENV['firebase_url']
 
   # => Instagram
   Instagram.configure do |config|

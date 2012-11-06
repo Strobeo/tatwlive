@@ -1,1 +1,1 @@
-web: bundle exec padrino start -p $PORT -e $RACK_ENV -a thin 
+web: bundle exec padrino start -p $PORT -a thin 
